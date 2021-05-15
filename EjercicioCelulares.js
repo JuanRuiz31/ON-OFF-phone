@@ -93,11 +93,5 @@ boton.addEventListener("click",()=>{
 
 botonEncendido.addEventListener("click",()=>{
     celular1.botonEncendido();
-   
-
 })
 
-// document.write(celular1.mostrarInfo());
-
-// celular1.botonEncendido();
-// celular1.tomarFoto();
