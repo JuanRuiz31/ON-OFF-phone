@@ -2,48 +2,6 @@ body{
     box-sizing: border-box;
 }
 
-/*
-.form{
-    display: flex;
-    flex-direction: column;
-    background: #f91;
-align-items: center;
-    padding: 17px;
-    margin: auto;
-    width: 60%;
-    border-radius: 8px;
-    box-shadow: -10px 10px 1px #000;
-}
-
-#frase{
-    width: 60%;
-    padding: 10px;
-    font-size: 18px;
-    font-family: sans-serif;
-  
-}
-.boton{
-    margin-top: 20px;
-    padding: 8px;
-    width: 20%;
-    background: #efe;
-    border-radius: 5px;
-}
-h2{
-    font-family: sans-serif;
-}
-
-.letrasA{
-    text-align: center;
-    padding: 15px;
-    border-radius: 2px;
-    background: #ccc;
-    width: 60%;
-    height: 100px;
-    margin-top: 30px;
-} */
-
-
 .celular{
     margin: auto;
     height: 500px;
