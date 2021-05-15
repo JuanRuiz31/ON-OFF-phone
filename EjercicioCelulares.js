@@ -25,24 +25,11 @@ class Celular{
             texto.style.display ="none";
             boton.style.display = "none";
 
-            if (mostrado == true) {
-                
-                pantalla.classList.remove("scroll")
-
-            }
+            if (mostrado == true) {pantalla.classList.remove("scroll")}
             
         }else if(this.encendido == false){
-           
-            if (mostrado == true) {
-                
-                pantalla.classList.add("scroll")
-
-            }
-           
-            
-            texto.style.display ="block";
-            boton.style.display ="block";
-
+            if (mostrado == true) {pantalla.classList.add("scroll")}
+            texto.style.display ="block";boton.style.display ="block";
             botonEncendido.innerHTML="OFF"
             pantalla.classList.remove("pantallaApagada")
             this.encendido = true;
