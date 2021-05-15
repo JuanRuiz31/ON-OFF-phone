@@ -87,10 +87,6 @@ boton.addEventListener("click",()=>{
     }
     
 })
-
-
-
-
 botonEncendido.addEventListener("click",()=>{
     celular1.botonEncendido();
 })
